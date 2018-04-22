@@ -1,0 +1,9 @@
+{
+  "name": "LogisticStatus",
+  "version": "0.1.2",
+  "factorio_version": "0.16",
+  "title": "Logistic Status",
+  "author": "bytearray and LsHallo",
+  "description": "Adds an logistic status indicator to show wether you are in a logistic network or not.",
+  "dependencies": ["base >= 0.16"]
+}
